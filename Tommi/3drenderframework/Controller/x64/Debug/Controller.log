@@ -1,0 +1,47 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\dependencies\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(196,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(199,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(243,53): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(244,53): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(269,48): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(270,48): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(275,48): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(276,48): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(281,34): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(286,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(300,71): warning C4244: '=': conversion from '_Rep' to 'T', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+          and
+          [
+              T=float
+          ]
+  Controller.vcxproj -> C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\x64\Debug\Controller.exe

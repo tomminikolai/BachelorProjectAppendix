@@ -1,0 +1,1 @@
+3drenderframework is the custom c++ opengl 3d rendering framework, CMakeprojforrobot is the CMake project which is compiled and run on the robot and the PlatformDocumtation folder holds assembly drawings and electrical drawings for the platform.

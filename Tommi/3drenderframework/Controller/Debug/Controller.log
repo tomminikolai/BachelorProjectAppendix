@@ -1,0 +1,194 @@
+﻿  glm.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw_gl3.cpp
+  IndexBuffer.cpp
+  Renderer.cpp
+  Shader.cpp
+  Sock.cpp
+  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\dependencies\include\GLFW\glfw3.h(123): message : see previous definition of 'APIENTRY'
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(129,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(162,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(166,22): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(178,53): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(179,53): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(203,32): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(204,33): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(208,33): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(209,33): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(213,33): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(214,33): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(218,33): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(219,33): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Source.cpp(229,69): warning C4244: '=': conversion from '_Rep' to 'T', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+          and
+          [
+              T=float
+          ]
+  stb_image.cpp
+  Texture.cpp
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(27,50): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(27,67): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(87,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(113,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(114,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(116,8): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(117,22): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(119,30): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(120,28): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(126,31): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(126,12): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(130,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(137,47): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(137,28): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(148,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(149,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(150,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(151,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(152,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\src\Texture.cpp(155,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  VertexArray.cpp
+  VertexBuffer.cpp
+  Generating Code...
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwGetWindowSize referenced in function "void __cdecl ImGui_ImplGlfwGL3_NewFrame(void)" (?ImGui_ImplGlfwGL3_NewFrame@@YAXXZ)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwGetFramebufferSize referenced in function "void __cdecl ImGui_ImplGlfwGL3_NewFrame(void)" (?ImGui_ImplGlfwGL3_NewFrame@@YAXXZ)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwGetWindowAttrib referenced in function "void __cdecl ImGui_ImplGlfwGL3_NewFrame(void)" (?ImGui_ImplGlfwGL3_NewFrame@@YAXXZ)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwGetInputMode referenced in function "void __cdecl ImGui_ImplGlfwGL3_NewFrame(void)" (?ImGui_ImplGlfwGL3_NewFrame@@YAXXZ)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwSetInputMode referenced in function "void __cdecl ImGui_ImplGlfwGL3_NewFrame(void)" (?ImGui_ImplGlfwGL3_NewFrame@@YAXXZ)
+Source.obj : error LNK2001: unresolved external symbol _glfwSetInputMode
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwGetMouseButton referenced in function "void __cdecl ImGui_ImplGlfwGL3_NewFrame(void)" (?ImGui_ImplGlfwGL3_NewFrame@@YAXXZ)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwGetCursorPos referenced in function "void __cdecl ImGui_ImplGlfwGL3_NewFrame(void)" (?ImGui_ImplGlfwGL3_NewFrame@@YAXXZ)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwSetCursorPos referenced in function "void __cdecl ImGui_ImplGlfwGL3_NewFrame(void)" (?ImGui_ImplGlfwGL3_NewFrame@@YAXXZ)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwCreateStandardCursor referenced in function "bool __cdecl ImGui_ImplGlfwGL3_Init(struct GLFWwindow *,bool,char const *)" (?ImGui_ImplGlfwGL3_Init@@YA_NPAUGLFWwindow@@_NPBD@Z)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwDestroyCursor referenced in function "void __cdecl ImGui_ImplGlfwGL3_Shutdown(void)" (?ImGui_ImplGlfwGL3_Shutdown@@YAXXZ)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwSetCursor referenced in function "void __cdecl ImGui_ImplGlfwGL3_NewFrame(void)" (?ImGui_ImplGlfwGL3_NewFrame@@YAXXZ)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwSetKeyCallback referenced in function "void __cdecl ImGui_ImplGlfw_InstallCallbacks(struct GLFWwindow *)" (?ImGui_ImplGlfw_InstallCallbacks@@YAXPAUGLFWwindow@@@Z)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwSetCharCallback referenced in function "void __cdecl ImGui_ImplGlfw_InstallCallbacks(struct GLFWwindow *)" (?ImGui_ImplGlfw_InstallCallbacks@@YAXPAUGLFWwindow@@@Z)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwSetMouseButtonCallback referenced in function "void __cdecl ImGui_ImplGlfw_InstallCallbacks(struct GLFWwindow *)" (?ImGui_ImplGlfw_InstallCallbacks@@YAXPAUGLFWwindow@@@Z)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwSetScrollCallback referenced in function "void __cdecl ImGui_ImplGlfw_InstallCallbacks(struct GLFWwindow *)" (?ImGui_ImplGlfw_InstallCallbacks@@YAXPAUGLFWwindow@@@Z)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwGetJoystickAxes referenced in function "void __cdecl ImGui_ImplGlfwGL3_NewFrame(void)" (?ImGui_ImplGlfwGL3_NewFrame@@YAXXZ)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwGetJoystickButtons referenced in function "void __cdecl ImGui_ImplGlfwGL3_NewFrame(void)" (?ImGui_ImplGlfwGL3_NewFrame@@YAXXZ)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwSetClipboardString referenced in function "void __cdecl ImGui_ImplGlfwGL3_SetClipboardText(void *,char const *)" (?ImGui_ImplGlfwGL3_SetClipboardText@@YAXPAXPBD@Z)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwGetClipboardString referenced in function "char const * __cdecl ImGui_ImplGlfwGL3_GetClipboardText(void *)" (?ImGui_ImplGlfwGL3_GetClipboardText@@YAPBDPAX@Z)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwGetTime referenced in function "void __cdecl ImGui_ImplGlfwGL3_NewFrame(void)" (?ImGui_ImplGlfwGL3_NewFrame@@YAXXZ)
+imgui_impl_glfw_gl3.obj : error LNK2019: unresolved external symbol _glfwGetWin32Window referenced in function "bool __cdecl ImGui_ImplGlfwGL3_Init(struct GLFWwindow *,bool,char const *)" (?ImGui_ImplGlfwGL3_Init@@YA_NPAUGLFWwindow@@_NPBD@Z)
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewActiveTexture
+Texture.obj : error LNK2001: unresolved external symbol ___glewActiveTexture
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewBlendEquation
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewBlendFuncSeparate
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+IndexBuffer.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+VertexBuffer.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewBufferData
+IndexBuffer.obj : error LNK2001: unresolved external symbol ___glewBufferData
+VertexBuffer.obj : error LNK2001: unresolved external symbol ___glewBufferData
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewDeleteBuffers
+IndexBuffer.obj : error LNK2001: unresolved external symbol ___glewDeleteBuffers
+VertexBuffer.obj : error LNK2001: unresolved external symbol ___glewDeleteBuffers
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+IndexBuffer.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+VertexBuffer.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewAttachShader
+Shader.obj : error LNK2001: unresolved external symbol ___glewAttachShader
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewBlendEquationSeparate
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewCompileShader
+Shader.obj : error LNK2001: unresolved external symbol ___glewCompileShader
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewCreateProgram
+Shader.obj : error LNK2001: unresolved external symbol ___glewCreateProgram
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewCreateShader
+Shader.obj : error LNK2001: unresolved external symbol ___glewCreateShader
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewDeleteProgram
+Shader.obj : error LNK2001: unresolved external symbol ___glewDeleteProgram
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewDeleteShader
+Shader.obj : error LNK2001: unresolved external symbol ___glewDeleteShader
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewDetachShader
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+VertexArray.obj : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewGetAttribLocation
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewGetUniformLocation
+Shader.obj : error LNK2001: unresolved external symbol ___glewGetUniformLocation
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewLinkProgram
+Shader.obj : error LNK2001: unresolved external symbol ___glewLinkProgram
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewShaderSource
+Shader.obj : error LNK2001: unresolved external symbol ___glewShaderSource
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewUniform1i
+Shader.obj : error LNK2001: unresolved external symbol ___glewUniform1i
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewUniformMatrix4fv
+Shader.obj : error LNK2001: unresolved external symbol ___glewUniformMatrix4fv
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewUseProgram
+Shader.obj : error LNK2001: unresolved external symbol ___glewUseProgram
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+VertexArray.obj : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewBindSampler
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewBindVertexArray
+VertexArray.obj : error LNK2001: unresolved external symbol ___glewBindVertexArray
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewDeleteVertexArrays
+VertexArray.obj : error LNK2001: unresolved external symbol ___glewDeleteVertexArrays
+imgui_impl_glfw_gl3.obj : error LNK2001: unresolved external symbol ___glewGenVertexArrays
+VertexArray.obj : error LNK2001: unresolved external symbol ___glewGenVertexArrays
+Shader.obj : error LNK2001: unresolved external symbol ___glewGetShaderInfoLog
+Shader.obj : error LNK2001: unresolved external symbol ___glewGetShaderiv
+Shader.obj : error LNK2001: unresolved external symbol ___glewUniform4f
+Shader.obj : error LNK2001: unresolved external symbol ___glewValidateProgram
+Source.obj : error LNK2019: unresolved external symbol _glewInit@0 referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwGetPrimaryMonitor referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwSwapInterval referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: __thiscall Sock_Client::~Sock_Client(void)" (??1Sock_Client@@QAE@XZ) referenced in function _main
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\dependencies\bin\GLFW\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Controller\dependencies\bin\glew\glew32s.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\ttoft\OneDrive\Dokumenter\opengl\opengl\Debug\Controller.exe : fatal error LNK1120: 65 unresolved externals
